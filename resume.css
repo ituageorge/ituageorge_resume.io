@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <script src="https://use.fontawesome.com/6e47fdd73a.js"></script>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title> Itua George Osagie RESUME</title>
+        <link href="https://fonts.googleapi.com/css?family=Caveat|Open+Sans:400,700" rel="stylesheet">
+        <link rel="stylesheet" href="resume.css">
+        
+    </head>
+    <body>
+        <!-- Intro -->
+        <header id="about">
+    <a href="resume.pdf" class="btn download" download>Download PDF</a>
+            <nav>
+<a href="#about">About</a>
+<a href="#work">Work Experience</a>
+<a href="#education">Education</a>
+<a href="#contact">contact</a>
+            </nav>
+
+            <div class="content-wrap">
+            <img  class="profile-img col-narrow" src="https://picsum.photos/200/300/?random" alt="Itua George Osagie">
+            <div class="col-wide">
+            <h1>Itua Osagie George</h1>
+            <h2>Software Engineer</h2>
+            <p>My Profile Summary. This could take several paragraphs or add links.</p>
+                <p>  I am an enthusiastic self-taught Software Developer with experience in HTML, CSS, Bootstrap 4, JavaScript, React Js and Node JS. 
+                    I am passionate in learning new skills and enjoy working in software and learning new things. </p>
+  
+                 <p> I am a professional person with excellent communication skills and time management. 
+                   I work on a number of projects at any one time and ensure that I always get my work completed on time and within the client’s budget. </p>
+                   
+                <p>  I have always had a keen interest in IT and pay great attention to detail in the work that I do. 
+                  I have a technical nature but I can explain technical plans and details to my clients in a non technical manner so that they understand. </p> 
+            </div>
+        </div>
+        </header> 
+        <main>
+            <!-- Work Experience -->
+            <section id="work" class="work">
+                    <div class="content-wrap">
+                <h2>Work Experience</h2>
+                <!-- Job details: copy this whole block to add more -->
+                <!-- Job 1 details  -->
+        <div class="col-narrow">
+               <h3>Full stack Web developer and Educator</h3>
+               <p class="uppercase">Work Station</p>
+               <p>2019 till date</p>
+            </div>
+            <div class="col-wide job-description">
+               <p>Providing various full stack development services ranging from web development work, 
+                   consultations, speaking engagement, coporate trainings and workshops Lorem ipsum dolor,
+                    sit amet consectetur adipisicing elit. Ut similique deserunt 
+                    itaque quas deleniti ea illo nostrum ab sint, assumenda possimus recusandae 
+                   consequuntur fugit perferendis odit sequi vero impedit amet!</p>
+               <p>See more at <a href="#" target="_blank">Itua George Osagie</a>.</p>
+            </div>
+                
+                <!-- Job 2 details  -->
+           <div class="col-narrow">
+            <h3>Sales Representative</h3>
+            <p class="uppercase">Ringo Telecommunications Limited, Ikeja, Lagos</p>
+            <p>2015</p>
+        </div>
+        <div class="col-wide job-description">
+                  <p> Providing various sales and logistics services.
+                     Lorem ipsum dolor sit amet consectetur 
+                    adipisicing elit. 
+                    Provident quidem dicta molestias expedita. Totam sequi aliquid, perferendis,
+                     voluptate optio delectus hic deleniti id praesentium iste quaerat 
+                     vero reprehenderit
+                      recusandae fugiat!</p> 
+                    </div>
+    
+                <!-- <h3>Job title</h3> 
+                    <p>company name</p>
+                     <p> date at job</p> 
+                    ---------------------->
+
+                <!-- Add as many paragraphs you need -->
+            
+                    <!-- <p> Job summary</p> 
+            
+                <p>Optional list:</p>
+                <ul>
+                    <li>Created...</li>
+                    <li>Lead...</li>
+                    <li>Responsible for</li>
+                </ul>
+            -------------------------------------------------->
+        </div>
+            </section>
+            <!-- Education -->
+            <section id="education" class="education">
+                    <div class="content-wrap">
+                <h2>Education</h2>
+                <!-- School details: copy this block to add more Schools. -->
+                <h3>University of Benin - Edo State, Nigeria.</h3>
+                  <p> Bachelor of Engineering degree, 2010</p> 
+                <p>Second class lower division</p>
+                <!-- school 2 detail -->
+<h3>Command Day Secondary School, Oshodi - Lagos State, Nigeria.</h3>
+<p>Secondary School leaving Certificate, 2002</p>
+<p>Secondary School leaving Certificate, 2002</p>
+<!-- school 3 detail -->
+        <h3>University of Benin - Edo State, Nigeria.</h3>
+          <p> Bachelor of Engineering degree, 2010</p> 
+        <p>Second class lower division</p>
+    </div>
+
+
+
+                 <!-- Add as many paragraphs you need -->
+
+                 <!-- End of school details -->
+                 </div>
+            </section>
+        </main>
+        <!-- footer and contact info -->
+        <footer id="contact">
+                <div class="content-wrap">
+            <h2>Let us keep in touch!</h2>
+
+            <!-- Social media and contact link. Add or remove any networks. -->
+            <div class="content-info">
+                <a href="mailto:ituaosagie100@gmail.com">ituaosagie100@gmail.com</a>
+                <a href="http://yourwebsite.com" target="_blank">yourwebsite.com</a>
+                <a href="#" target="_blank">twitter</a>
+                <a href="#" target="_blank">linkedIn</a>
+                <a href="#" target="_blank">Facebook</a>
+            </div>
+            <p>Copyright2018 by Itua George Osagie</p>
+            </div>
+        </footer>
+    </body>
+
+</html>
